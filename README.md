@@ -4,4 +4,4 @@
 
 # microservices-saga-architecture
 
-![](https://i.ibb.co/hf548FJ/microservices-saga-architecture-drawio.png)
+![](https://i.ibb.co/qR3GLfh/microservices-saga-architecture-drawio-1.png)
