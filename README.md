@@ -1,6 +1,6 @@
 # microservices-architecture
 
-![](https://i.ibb.co/s15WHry/Untitled-Diagram-drawio-2.png)
+![](https://i.ibb.co/h8z7KYP/Untitled-Diagram-drawio-3.png)
 
 # microservices-saga-architecture
 
